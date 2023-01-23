@@ -1,6 +1,6 @@
 # ICDAR2019_MTD_HOQ
 
-ICDAR2019_TDM_HOQ 数据集在 icdar2019_cTDaRA_modern 数据集的基础上，对文本行进行了旋转或者透视变换生成。
+ICDAR2019_MTD_HOQ 数据集在 icdar2019_cTDaRA_modern 数据集的基础上，对文本行进行了旋转或者透视变换生成。
 
 
 ## 数据集下载
