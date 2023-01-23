@@ -7,13 +7,13 @@ ICDAR2019_TDM_HOQ 数据集在 icdar2019_cTDaRA_modern 数据集的基础上，�
 
 ```shell
 # git clone https://github.com/vansin/ICDAR2019_cTDaR.git -b new ICDAR2019_cTDaR_TRACKA_Modern_HOQ_BBox
-git clone https://github.com/vansin/ICDAR2019_cTDaR.git -b new ICDAR2019_TDM_HOQ
+git clone https://github.com/vansin/ICDAR2019_cTDaR.git -b new ICDAR2019_MTD_HOQ
 ```
 
 ## 数据集结构
 
 ```shell
-ICDAR2019_TDM_HOQ
+ICDAR2019_MTD_HOQ
 ├── ann_test_hbbox  # 原始HBB水平框测试集标注
 ├── ann_test_obbox  # 旋转变换后有向边界框测试集标注（算法生成）
 ├── ann_test_qbbox  # 投影变换后边界框测试集标注（算法生成）
